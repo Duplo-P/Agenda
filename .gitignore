@@ -1,0 +1,11 @@
+!.gitignore
+!.json
+*.log
+*.pyc
+venv/
+*.tmp
+*~
+bd.json
+GUI.py
+__pycache__
+pyproject.toml

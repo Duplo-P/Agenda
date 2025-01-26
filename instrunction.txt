@@ -1,0 +1,29 @@
+============================== INSTRUNCTIONS ===================
+Introdução
+
+Este manual tem como objetivo orientar você na utilização da sua agenda pessoal desenvolvida em Python. 
+Com ela, você poderá adicionar, atualizar, consultar e apagar contatos de forma eficiente.
+Funcionalidades Principais
+
+    Adicionar Contato: Permite inserir um novo contato na agenda, incluindo nome, telefone e endereço( Electrónico ou físico ).
+    Atualizar Contato: Possibilita modificar os dados de um contato já existente na agenda.
+    Consultar Contato: Permite buscar por um contato.
+    Apagar Contato: Remove um contato da agenda de forma permanente.
+
+Como Utilizar
+
+1. Iniciar a Agenda:
+
+2. Menu Principal:
+Ao iniciar a agenda, um menu com as opções disponíveis será apresentado:
+
+    1 - Adicionar Contato: Digite o número correspondente para adicionar um novo contato.
+    2 - Atualizar Contato: Digite o número correspondente para modificar um contato existente.
+    3 - Procurar Contato: Apresenta todos os contato da agenda.
+    4 - Apagar Contato: Digite o número correspondente para remover um contato.
+    5 - Ajuda: apresenta um manual de instrução.
+    6 - Sair: Digite o número correspondente para encerrar a agenda.
+
+3. Seguir as Instruções:
+A cada opção escolhida, o programa irá solicitar as informações necessárias para realizar a ação.
+Siga as instruções na tela para inserir os dados corretamente.
