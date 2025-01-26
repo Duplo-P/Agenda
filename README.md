@@ -18,7 +18,7 @@ Uma agenda simples desenvolvida em Python para gerenciar seus contatos.
 
 1. **Clone o repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone [URL](https://github.com/Duplo-P/Agenda.git)
 ## Como Utilizar
 
 **1. Iniciar a Agenda:**
